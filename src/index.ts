@@ -1,1 +1,1 @@
-console.log('Typescript boilerplate');
+console.log('Starting Ant Simulator');
